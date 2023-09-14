@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+    <title>Olá Meu Name é Vinicius Ramos</title>
+</head>
+
+<body>
+    <!--Person -->
+   <section id="person">
+    <div class="person-content">
+        <div class="person-name">
+            <h1>Bem Vindos <span></span></h1>
+            <h1>A Mini Loja Oline<span></span></h1>
+            <h1>Teste<span></span></h1>
+        </div>
+   
+        <div class="stacks-content">
+            <h3>SERVIÇOS :</h3>
+
+            <div class="stacks">
+                <ul>
+                    <li>
+                        <div icone="HTML">
+                        <img src="./aa.svg/HTML5_logo_and_wordmark.svg.png" alt="html-icon">
+                    </div>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <div icone="CSS">
+                        <img src="./aa.svg/1200px-CSS.3.svg.png" alt="css-icon">
+                    </div>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <div icone="JAVASCRIPT">
+                        <img src="./aa.svg/Unofficial_JavaScript_logo_2.svg.png" alt="js-icon">
+                    </div>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <div icone="REACT">
+                        <img src="./aa.svg/React-icon.svg.png" alt="react-icon">
+                    </div>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <div icone="LINKEDIN">
+                        <img src="./aa.svg/LINKEDIN.png" alt="linkdin-icon">
+                    </div>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+
+        <div class="person-backgroud">
+            <div class="foto de perfil">
+                <img class src="" alt="">
+            </div>
+        </div>
+
+    </div>
+   </section>
+    <!--End Person -->
+
+
+</body>
+
+</html>
